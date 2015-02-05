@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Wear Motion Sensors</string>
+    <string name="init_title">Sensor type</string>
+    <string name="init_values">Getting data...</string>
+
+</resources>
