@@ -105,6 +105,10 @@ public class SensorFragment extends Fragment implements SensorEventListener {
 
     }
 
+
+    // References:
+    //  - http://jasonmcreynolds.com/?p=388
+    //  - http://code.tutsplus.com/tutorials/using-the-accelerometer-on-android--mobile-22125
     private void detectShake(SensorEvent event) {
         long now = System.currentTimeMillis();
 
