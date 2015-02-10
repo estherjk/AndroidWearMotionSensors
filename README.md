@@ -2,7 +2,7 @@
 
 This project demonstrates the use of the accelerometer and gyroscope sensors on an Android Wear device. It displays the raw values for each sensor on its own page. It also performs simple shake and rotation detection using the accelerometer and gyroscope, respectively; when a shake or a rotation is detected, the background color changes to green.
 
-See it in action [here](http://youtu.be/oyCgck3ixQI) using the Moto 360.
+See it in action [here](http://youtu.be/Yxne6YWGbE0) using the Moto 360.
 
 ## Code Overview
 
